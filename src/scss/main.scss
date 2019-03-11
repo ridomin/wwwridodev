@@ -57,16 +57,16 @@ h1, h2, h3 {
   line-height: 1;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 0.8em;
   margin-top:0.4em;
   margin-bottom:0.2em;
   line-height: 1;
 
   @include bp(mid) {
-    font-size: 5em;
+    font-size: 2em;
   }
   @include bp(wide) {
-    font-size: 6em;
+    font-size: 3em;
   }
 }
 
@@ -76,7 +76,7 @@ p {
 }
 
 .subtitle {
-  font-size: 0.8em;
+  font-size: 0.5em;
   margin-top: 1em;
   margin-bottom: 2em;
 }
