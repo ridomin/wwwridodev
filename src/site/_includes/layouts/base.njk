@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66818411-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-66818411-5');
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>{% include "css/main.css" %}</style>
@@ -11,13 +20,13 @@
       <header>
         <ul class="nav">
         <li>
-            <a href="/">home<small>rido.dev</small></a>
+            <a href="/">home<small>Rido.dev</small></a>
           </li>
           <li>
             <a href="https://blog.rido.dev">blog<small>Rido blog</small></a>
           </li>
           <li>
-            <a href="https://apps.rido.dev">apps<small>Rido apps</small></a>
+            <a href="https://appxserver.azurewebsites.net/apps/">apps<small>Rido apps</small></a>
           </li>
         </ul>
         <h1>{{ title }}</h1>
