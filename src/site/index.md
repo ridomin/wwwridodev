@@ -2,27 +2,27 @@
 title: Rido.Dev
 subtitle: Rido home site
 layout: layouts/base.njk
+date: 2019-03-11
 ---
 
 
 ## Open Source Projects
 
-Here are some of my active projects:
+Here are some of my active projects in 2019:
 
-- [MSIX Catalog](https://github.com/ridomin/msix-catalog) 
-- [Cert Central](https://bit.ly/certcentral)
-- [RidoUWP](https://github.com/ridomin/msix-catalog) demo UWP library
-
+- [MSIX Catalog](https://github.com/ridomin/msix-catalog) WPF tool showing installed APPX/MSIX packages
+- [Cert Central](https://bit.ly/certcentral) An experiment to share X509 public keys linked to GitHub accounts
+- [RidoUWP](https://github.com/ridomin/msix-catalog) UWP sample control to show app packaging information
 
 ## Content
 
-Articles, docs and other contents
+Some docs and samples I've contributed to:
 
 <ul class="listing">
 {%- for page in collections.post -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLL d, y") }}</time>
+    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("MMM d, y") }}</time>
   </li>
 {%- endfor -%}
 </ul>

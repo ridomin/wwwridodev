@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/rido
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.rido.dev
+  * I am rido (https://keybase.io/rido) on keybase.
+  * I have a public key with fingerprint A5E4 1E2C 584F A668 A7E1  F7AE 8D48 67D5 0420 8497
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018450eca658328966e4a24e65c911dccea68b58d9ccb3655f84efff011b5f37730a",
+      "fingerprint": "a5e41e2c584fa668a7e1f7ae8d4867d504208497",
+      "host": "keybase.io",
+      "key_id": "8d4867d504208497",
+      "kid": "01018450eca658328966e4a24e65c911dccea68b58d9ccb3655f84efff011b5f37730a",
+      "uid": "193a333aff32db80c79d5ec0fbe9dd19",
+      "username": "rido"
+    },
+    "merkle_root": {
+      "ctime": 1552889205,
+      "hash_meta": "ebb794c9578655dab1ce84f165df0ec9bcf0c553d7c48acb56ae61e36f480dfc",
+      "seqno": 4970258
+    },
+    "revoke": {
+      "sig_ids": [
+        "c7cedccc34319430f57dac8f85229789b0e5ee1ccda77b0e25d888537d3d3fc40f"
+      ]
+    },
+    "service": {
+      "hostname": "www.rido.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1552889215,
+  "expire_in": 157680000,
+  "prev": "58e0f3a1f9b1983e52b0bdbec6ba2d8b94724c0148325196dea90fa3ee2e34b9",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMK5AnicrZNtiFVFGMfv2ot5y5cCk9jN4BRU4q4zZ2bOmbllZL4EQhRqJqt2m5dn
+dg937z3bOefe3W3ZDRFi68O2fUhEks1SP0Tap2B7W2tXUNoVNFhQNBIWUlSIwNBP
+0ZyLEUQfO18Oc+b//J//8zszJxffVSi2bD5IR3/4fFvcMjOV1Au73mdvD3oqNgNe
+adCrQPMFPQbSrFyJjFfyEEaYU4ZAy4Bx4nMRBEClTyFgWmBstAYZcMW4EVorEjBm
+OQVrLcJYMUvCkCDprfZsVOuCpDeJapmzlQwoBl8zTq0MAi5DwDaUwA3lQWgYoj7i
+VISusDtO8woXTskUOqLYfXOLcjPef+j/59z1ph0WRBJCpLXEN4ojHQrDQCOrQBiD
+RS5MIanJKjh1EpnYG1rtVSGp9EA5ieMsB6uzKN/GjPmcCx8xN5xMu8tVyKSrAqVC
+QbVgIXdpjFRYg8ODA2asm0MobZFmjJhQUy61YoGEAAMJLOXIWO0ypPBmLfZKDgTy
+GXcJEmjEFcibp1GXQ5Z6pZ2eDjW4+TWhBAtKkGWhkZpbznxfhFwoBAwAa21kGLqF
+zwznnJHQEEOspsh6u4fyZkkj0k3z/B/dmb2vr68jn7/DQMMl6k3iLNZxj9vpzrLe
+tJRzyQZ6m1JQ5TsmZRXVjDshrqIBSRrFNcfJKf+FDDtk0N8bJVCOcgULA47ck/dx
+7Uoe44AskdgKhQUnwHyFlFGgAyV9w5WgoU81wtQdCYZFYEAKZCUB8IFQJf5hyHyX
+U3Y5T0euJrN6At7Q1Pe77i60FAv33rMgvzqF4qJlf1+o9hv3FQ5PDJ+Z2lOdu/Fx
+9dDY3IHnx59e+ee1b57dcWLf3t+3X71Q2hJ8dvqx2/aZzpGv1x/7pTjZOr7wtQfX
+DK5ZubN+ZPHM2pnbb1z69cTE+I4P1l9Z9PrRHxuNm6tGrj/c+Krzvcs//7Z/vn37
+0UMDL2XHOs8ta7m29KP+1k9f3bfx7M25Jd0wXWo7v27jkkFRf+hdvWLb6OVzTwwP
+v/VJ+5UjGzZsYsfV2tmL46cmHxhjJ08dvHThQL9657sPH72+PGhJfvriVnzxeNvm
+p9r4NDu75fH4ybHTj4i9Ewv/ePHwl88l+1/YPT9aP1/cujTZtHWEBK+kLy8IO3pm
+z5RXjNyqt47OV2bvX/ft8njPqumrk38B7FJ+sg==
+=fK2w
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rido
+
+==================================================================

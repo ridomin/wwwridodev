@@ -6,7 +6,7 @@ subtitle: Who is Rido?
 
 ## Rido
 
-Rido is a PM in Visual Studio and .NET. I've been focused 
+Rido is a PM in Visual Studio and .NET.
 
 Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
 
