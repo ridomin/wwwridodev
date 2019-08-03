@@ -12,7 +12,7 @@ Here are some of my active projects in 2019:
 
 - [MSIX Catalog](https://github.com/ridomin/msix-catalog) WPF tool showing installed APPX/MSIX packages
 - [Cert Central](https://bit.ly/certcentral) An experiment to share X509 public keys linked to GitHub accounts
-- [RidoUWP](https://github.com/ridomin/msix-catalog) UWP sample control to show app packaging information
+- [RidoUWP](https://github.com/ridomin/ridouwp) UWP sample control to show app packaging information
 
 ## Content
 
